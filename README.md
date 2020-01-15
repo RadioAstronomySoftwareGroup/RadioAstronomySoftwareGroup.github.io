@@ -38,6 +38,14 @@ In contrast, RASG core repos represent a higher bar for support. In particular, 
 - A Code of Conduct and a Contributing guide.
 - Meet all the above criteria for RASG-affiliates.
 
+### RASG-Affiliated Repos
+
+[healvis](https://github.com/rasg-affiliates/healvis):
+Visibility simulation of the sky on HEALPix maps.
+
+[simpleDS](https://github.com/rasg-affiliates/simpleDS):
+Simple delay-space power spectrum estimator using proper cosmological normalization.
+
 ## Documents
 Contributors to the RASG Organization documents on these pages are subject to the Code of Conduct and Contributing Guide below. We encourage RASG-Affiliated repos to adopt their own Codes of Conduct and Contributing Guides. These documents in the pyuvdata repo ([pyuvdata Code of Conduct](https://github.com/RadioAstronomySoftwareGroup/pyuvdata/blob/master/CODE_OF_CONDUCT.md) and [pyuvdata Contributing Guide](https://github.com/RadioAstronomySoftwareGroup/pyuvdata/blob/master/.github/CONTRIBUTING.md)) are good examples.
 
