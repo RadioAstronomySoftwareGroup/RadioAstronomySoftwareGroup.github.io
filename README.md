@@ -26,7 +26,7 @@ RASG-Affiliated Repos, in general, should have:
 - A descriptive README.
 - Code documentation, including but not limited to docstrings (we prefer the numpy docstring style, as described [here](https://numpydoc.readthedocs.io/en/latest/format.html)).
 - Meet pep8 code format standards (`flake8` or `pycodestyle` can be used to enforce this).
-- Permissive open source license (e.g., BSD or MIT, _NOT_ a copyleft license such as the GPL). **INSERT LINK TO A SUPPORTING DOC HERE**
+- Permissive open source license (e.g., BSD or MIT, _NOT_ a copyleft license such as the GPL). For some reading on the concerns around copyleft licenses see [this](https://www.technologyreview.com/s/405089/copyleft-hits-a-snag/), [this](http://sennoma.net/?p=622) and [this](https://opencontent.org/blog/archives/4818).
 - Signoff from the RASG managers. We will consider all of the above requirements and a plan for long-term support as criteria for support.
 
 
